@@ -11,9 +11,9 @@
  *
  *   TEST SCENARIO 2
  *   Your choice!
- */
+ */ //
 
-public class TipCalculator {
+public class TipCalculator { // edit
 
     /*  This method takes the bill amount as a double and a tip percentage as an
      *  integer and returns a rounded amount for what to tip. Use a tip calculator
