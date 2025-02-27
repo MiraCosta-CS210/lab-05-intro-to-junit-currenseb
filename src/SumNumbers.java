@@ -17,7 +17,7 @@
  * it is working the way it should, so that your JUnit tests all pass!
  */
 
-public class SumNumbers { // edit
+public class SumNumbers {
 
     /*   Define a function called sumIsEven() which takes two integer inputs
      *   and returns 1 for “true” if the sum of the two values is an even number.

@@ -1,4 +1,4 @@
-import static org.junit.Assert.assertEquals; // edit
+import static org.junit.Assert.assertEquals;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class TipCalculatorTest {
